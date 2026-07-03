@@ -17,6 +17,7 @@ const sum = numbers.reduce((total, num) => total + num, 0);
 
 console.log("Numbers:", numbers);
 console.log("Sum:", sum);
+console.log(age); 
 
 // Object example
 const student = {
